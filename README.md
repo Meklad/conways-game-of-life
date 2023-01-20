@@ -23,4 +23,4 @@ The universe of the Game of Life is an infinite, two-dimensional orthogonal grid
 
 ## About Me:
 
-My name is Ahmed Abd-El-Rahman also known as Ahmed Maklad, Iam backend engineer and CEO of [Tyet Soft](http://tyet-soft.ml/) for building web applications like erb's and Corporate internal financial management systems.
+My name is Ahmed Abd-El-Rahman also known as Ahmed Maklad, Iam backend engineer [Tyet Soft](http://tyet-soft.ml/) for building web applications like erb's and Corporate internal financial management systems.
